@@ -1,6 +1,8 @@
-Flask
+streamlit
 joblib
 pandas
 python-dotenv
 google-generativeai
 scikit-learn
+openpyxl
+xlsxwriter
